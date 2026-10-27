@@ -1,0 +1,8 @@
+// Product identity. Renaming the app means editing only this file.
+PRODUCT_BUNDLE_IDENTIFIER_PREFIX = io.github.jsonchoi.openkeyboard
+PRODUCT_DISPLAY_NAME = Open Keyboard
+PRODUCT_DISPLAY_NAME_KO = 오픈 키보드
+// Derived from the prefix; register the same group for both targets when signing.
+SHARED_APP_GROUP = group.$(PRODUCT_BUNDLE_IDENTIFIER_PREFIX)
+MARKETING_VERSION = 0.1.0
+CURRENT_PROJECT_VERSION = 1

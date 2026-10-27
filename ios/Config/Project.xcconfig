@@ -1,0 +1,8 @@
+#include "Product.xcconfig"
+IPHONEOS_DEPLOYMENT_TARGET = 16.0
+SWIFT_VERSION = 5.0
+TARGETED_DEVICE_FAMILY = 1,2
+CODE_SIGN_STYLE = Automatic
+// Set your Apple Developer team here or in the ignored Local.xcconfig before device builds.
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"

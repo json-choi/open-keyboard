@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Working name; rename here and in values-ko. -->
+    <string name="app_name">Open Keyboard</string>
+    <string name="tagline">An offline Hangul keyboard. No account, no network.</string>
+    <string name="subtype_korean">Korean</string>
+    <string name="subtype_english">English</string>
+
+    <!-- Keyboard keys and accessibility -->
+    <string name="key_symbols">Symbols</string>
+    <string name="key_numbers">Numbers</string>
+    <string name="key_search">Search</string>
+    <string name="key_send">Send</string>
+    <string name="key_done">Done</string>
+    <string name="key_go">Go</string>
+    <string name="key_next">Next</string>
+    <string name="key_return">Return</string>
+    <string name="key_space">space</string>
+    <string name="key_delete">Delete</string>
+    <string name="key_shift">Shift</string>
+    <string name="key_shift_on">Shift on</string>
+    <string name="key_caps_on">Caps Lock on</string>
+    <string name="key_vowels">Vowels</string>
+    <string name="key_language">Korean/English</string>
+    <string name="emoji">Emoji</string>
+    <string name="back_to_keyboard">Back to keyboard</string>
+    <string name="moaki_hint">Drag from a consonant to add a vowel. →ㅏ ←ㅓ ↑ㅗ ↓ㅜ ↗ㅣ ↘ㅡ</string>
+    <string name="shortcut_suggestion">%1$s → %2$s</string>
+    <string name="emoji_people">Smileys and people</string>
+    <string name="emoji_nature">Animals and nature</string>
+    <string name="emoji_food">Food and drink</string>
+    <string name="emoji_activities">Activities and travel</string>
+    <string name="emoji_objects">Objects</string>
+    <string name="emoji_symbols">Symbols</string>
+
+    <!-- Setup -->
+    <string name="section_setup">Set up</string>
+    <string name="setup_enable">Turn on keyboard</string>
+    <string name="setup_enable_detail">First, turn on %1$s in the system keyboard list.</string>
+    <string name="setup_select">Choose keyboard</string>
+    <string name="setup_select_detail">Next, choose %1$s as the keyboard you type with.</string>
+    <string name="setup_ready">%1$s is on and selected.</string>
+    <string name="preview_description">Settings preview: %1$s</string>
+    <string name="preview_change_keyboard">Change keyboard</string>
+    <string name="preview_onscreen_keyboard">On-screen keyboard</string>
+    <string name="preview_other_keyboard">Other keyboard</string>
+
+    <!-- Input -->
+    <string name="section_input">Input</string>
+    <string name="typing_language">Keyboard language</string>
+    <string name="language_korean">Korean</string>
+    <string name="language_english">English</string>
+    <string name="korean_layout">Korean layout</string>
+    <string name="layout_dubeol">Dubeolsik</string>
+    <string name="layout_cheonjiin">Cheonjiin</string>
+    <string name="layout_moaki">Moaki</string>
+    <string name="key_height">Key height %1$ddp</string>
+    <string name="key_height_description">Key height, %1$d to %2$d dp</string>
+    <string name="haptic">Key vibration</string>
+    <string name="sound">Key sounds</string>
+
+    <!-- Shortcuts and snippets -->
+    <string name="section_shortcuts">Shortcuts</string>
+    <string name="shortcuts_detail">Type a shortcut as a whole word, then tap the suggestion above the keys to replace it.</string>
+    <string name="add_shortcut">Add shortcut</string>
+    <string name="edit_shortcut">Edit shortcut</string>
+    <string name="shortcut_trigger">Shortcut (no spaces)</string>
+    <string name="shortcut_expansion">Replace with</string>
+    <string name="section_snippets">Snippets</string>
+    <string name="snippets_detail">Saved phrases appear above the keys. Tap one to insert it.</string>
+    <string name="add_snippet">Add snippet</string>
+    <string name="edit_snippet">Edit snippet</string>
+    <string name="snippet_text">Phrase</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="error_trigger_space">Enter a shortcut without spaces.</string>
+    <string name="error_trigger_long">A shortcut can have up to 20 characters.</string>
+    <string name="error_text_length">Enter 1 to 500 characters.</string>
+    <string name="error_same">The shortcut and its text are the same.</string>
+    <string name="error_duplicate">This is already saved.</string>
+    <string name="error_full">You have reached the limit.</string>
+
+    <!-- Try it and about -->
+    <string name="section_try">Try it</string>
+    <string name="try_hint">Type here to try the keyboard</string>
+    <string name="about">Version %1$s · MIT License\nThis app has no internet permission. What you type, your shortcuts and your snippets stay on this device.</string>
+</resources>

@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode / Swift
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.build/
+.swiftpm/
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.keystore
+*.jks
+captures/
+.idea/
+*.iml
